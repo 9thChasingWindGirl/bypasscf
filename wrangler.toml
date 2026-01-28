@@ -1,11 +1,12 @@
 name = "bypasscf"
 main = "_worker.js"
-compatibility_date = "2026-01-19"
+compatibility_date = "2026-01-18"
 keep_vars = true
 
 [[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
 
 id = "928b8cd2a2114eb6866ce7e5cea21c1d"				#KV数据库id
+
 
 
